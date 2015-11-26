@@ -23,4 +23,4 @@ RUN umask 0002
 VOLUME /var/www
 
 # Default command
-CMD bash
+CMD /bin/true
